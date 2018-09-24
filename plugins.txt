@@ -16,7 +16,7 @@ aws-cloudwatch-logs-publisher
 aws-codebuild
 aws-codecommit-jobs
 aws-codecommit-trigger
-aws-codepipeline
+# aws-codepipeline
 aws-credentials
 aws-device-farm
 aws-global-configuration
@@ -111,7 +111,7 @@ googleanalytics
 gradle
 groovy
 groovy-label-assignment
-hadoop
+# hadoop
 handlebars
 handy-uri-templates-2-api
 hashicorp-vault-plugin
