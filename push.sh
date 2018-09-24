@@ -1,3 +1,3 @@
 #!/bin/bash
 #Push to Docker Registry
-docker push <DOCKER_REGISTRY>/jenkins.docker.cto:latest
+docker push fabianschyrer/jenkins.docker.cto:latest
