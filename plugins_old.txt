@@ -1,0 +1,14 @@
+authorize-project:1.3.0
+groovy:2.0
+influxdb:1.18
+
+bitbucket
+git
+scm-api
+mercurial
+branch-api
+structs
+job-dsl
+bouncycastle-api
+command-launcher
+jdk-tool

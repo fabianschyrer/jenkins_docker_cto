@@ -1,6 +1,6 @@
 # README - jenkins_docker_cto
 
-The Jenkins Continuous Integration and Delivery server.
+The Jenkins Continuous Integration and Continous Delivery server.
 
 This is a fully functional Jenkins server.
 [http://jenkins.io/](http://jenkins.io/).
