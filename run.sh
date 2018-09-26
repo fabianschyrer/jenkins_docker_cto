@@ -9,7 +9,7 @@ docker run -d \
 	--publish 50000:50000 \
 	jenkins.docker.cto:latest
 
-docker logs -f jenkins-cto
+# docker logs -f jenkins-cto
 
 
 
