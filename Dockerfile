@@ -46,8 +46,8 @@ RUN pip install aws-sam-cli aws-sam-translator boto boto3 botocore mock pipenv r
 
 # Expose Ports
 EXPOSE ${http_port}
-EXPOSE ${https_port}
-EXPOSE ${agent_port}
+# EXPOSE ${https_port}
+# EXPOSE ${agent_port}
 
 # Install Jenkins Plugins
 COPY plugins.txt /usr/share/jenkins/plugins.txt
