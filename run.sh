@@ -8,5 +8,3 @@ docker run -d \
 	--network="jenkins-network" \
 	--publish 8080:8080 \
 	jenkins.docker.cto:latest
-
-# docker logs -f jenkins-cto
